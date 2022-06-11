@@ -6,7 +6,7 @@ Instructions:
 2. Place any script you find here in a new folder
 3. In the location bar of the folder, type the letters cmd
 (this opens our folder in the command prompt)
-4. Type in the command prompt the word node and then the name of the script
+4. Type in the command prompt the word node and then a space, and then the name of the script
 (for example: node njs_os_type)
 
 This will open our node.js script using the command prompt.
