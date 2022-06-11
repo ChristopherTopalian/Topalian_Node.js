@@ -2,7 +2,7 @@
 Learn to program using node.js. Make applications using javascript, html and css.
 
 Instructions:
-1. Download node.js and Install It
+1. Download node.js and Install It from https://nodejs.org/en/download/
 2. Place any script you find here in a new folder
 3. In the location bar of the folder, type the letters cmd
 (this opens our folder in the command prompt)
