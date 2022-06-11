@@ -1,5 +1,5 @@
 # Topalian_Node.js
-Learn to program using node.js. Make applications using javascript, html and css.
+Learn to program using node.js. Make applications using Node.js, JavaScript, HTML and CSS.
 
 Instructions:
 1. Download node.js and Install It from https://nodejs.org/en/download/
