@@ -10,3 +10,5 @@ Instructions:
 (for example: node njs_os_type)
 
 This will open our node.js script using the command prompt.
+
+Using node.js, we can control many things that are needed in creating applications.
