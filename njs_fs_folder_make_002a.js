@@ -6,7 +6,7 @@
 // mkdir means make directory
 // this script is similar to the previous script, but with a different parameter name
 
-const fs = require('fs');
+const fs = require("fs");
 
 function folderMake(nameOfFolder)
 {
