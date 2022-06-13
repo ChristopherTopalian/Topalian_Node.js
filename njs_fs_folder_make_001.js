@@ -9,7 +9,8 @@ const fs = require('fs');
 
 let folderName = "OurFolder";
 
-let callback = function(theError) {
+let callback = function(theError)
+{
     if (theError)
     {
         console.log(theError);
