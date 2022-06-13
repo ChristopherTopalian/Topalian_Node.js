@@ -10,10 +10,12 @@ const fs = require('fs');
 let folderName = "OurFolder";
 
 let callback = function(theError) {
-    if (theError) {
+    if (theError)
+    {
         console.log(theError);
     }
-    else {
+    else
+    {
         console.log("Folder created successfully");
     }
 };
