@@ -5,7 +5,7 @@
 // another word for directory is folder
 // mkdir means make directory
 
-const fs = require('fs');
+const fs = require("fs");
 
 function folderMake(folderName)
 {
