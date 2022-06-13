@@ -6,7 +6,7 @@
 // flag: w  overwrites the data if it already exists
 // flag: a  appends the data if it already exists
 
-const fs = require('fs')
+const fs = require('fs');
 
 let fileName = "ourFile.txt";
 
