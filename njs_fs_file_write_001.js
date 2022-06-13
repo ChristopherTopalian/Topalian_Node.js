@@ -22,7 +22,7 @@ let callback = function(theError)
 {
     if (theError)
     {
-        console.callback(theError);
+        console.log(theError);
     }
     else
     {
