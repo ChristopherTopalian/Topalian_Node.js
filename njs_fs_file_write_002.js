@@ -3,8 +3,8 @@
 // node njs_fs_file_write_002.js
 // creates a new text file if one doesn't already exist
 // writes data to the text file
-// flag: w  overwrites the data if it already exists
-// flag: a  appends the data if it already exists
+// flag: "w"  overwrites the data if it already exists
+// flag: "a"  appends the data if it already exists
 
 const fs = require("fs");
 
